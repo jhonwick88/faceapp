@@ -15,7 +15,13 @@ In this code, you'll use the Google Vision API to detect faces in an image and w
 - Enable the Google Cloud Vision API. 
 - Set up your environment for using Application Default Credentials. 
 
+## Add dependencies
+
+- Use composer to install 
+  `composer require "google/cloud-vision"`
+
 ## Add webcam.js
+
 This code combine google vision api with webcam.js
 - See more about webcam.js [here](https://github.com/jhuckaby/webcamjs)
 
