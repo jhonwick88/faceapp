@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "facial-detection-app-272201",
+  "private_key_id": "108702c80f4fe1c757bf5ea5b9c6320d2f3fb9fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHoxQScXZQW8PY\nz0/cW1rBVIen1WEhCrvs7LWzO/VwZr8xuQBAYDlpCSGJ89HYPVSu+LIC1kraQBSJ\n2hsIl4uAIzmT/4W0I9cxOuvBNZlUgv2NTRgABlU7OMwCXGe+TSNsj2rkektp2ZOE\nWD1QzAxSiqBGy0/J0wp1GC87v6KCnM5RPMhsre05umT9KubUsZpyON/bkcvyU12T\nY0gLUOtY3E+hAAQWAU06qtmwjW1eYMujnHuw5EU9kfiCSTn8TrrUoO6J7g8XWp92\nzw/00lrEHgfbk7qpD61ZHzUOYQHlSHDcV7J2dAqX/MzAYoB10PANYBVV4tyeR0xn\nHcs9mjFLAgMBAAECggEAF0/VkV0ay0HD9LEqAAR87F7MuSOjbsJ8SlYj1j+rUUpL\ni5Nbp6jKMMKRCN+7V9cQPfRVg8ZL7FYXmoyo+SUKdFaTVn275QVbD2kezCt68abw\nKQwLwD5SZ+ghzn7Fhdp9HKQB/+xrRPt+tzFp9jbgPifo6mC7EElqtbIIG0qClWIO\nnXrmyWPKPqGnNXY7Z/p/6zv9ONd7ZTLT40KTb5tLZSVgwpzflx2I5iAXjDLKu2q6\n7BnpEPX08W9HVwmuv73pDbDlJW38nSFaon2nY3RPKFUaCsbu1M/Be8pRSetfXxa0\n0lTEVxfQnYWPhgTeXcCkjpBAD4H+LK504/KaCgYMYQKBgQD//903ljJW8ggmP4r9\ngXIZvncZHxHs8Mnuto7FDJ81KXnV/MKgkqWzyvZ2EVDvLG/Mfey5QvB7p2YJS6i7\n9GLSec8bkQgFDJlz8jGXP0kyy69C2Fn4m7QtQ9HiG5xt/gps1P58GjGOPlpilD9A\ntO+A/cjnoOLs6yjYJ2jyiMS1IQKBgQDHoy8yZ7oxYZ6AtvbULqkhOpevNt1LLsGL\nmxZxplF+VBEBvACzW2a0cAitDMMtX9xSxsR6KVeX/KvWvQ06fpu20KY1ZgNyhjyk\ncgXn9F+pQw9s5j8Ed8UTNpZoXb2r4NbXuIFqXwrK+9XtxMJJo9JroA1rolfUffiV\nm+NpYt5s6wKBgHIXfmf/sH+/bpJdT3yb7FY85Kd1iW+oANc61XZMocf3rC0KcVNP\nCDqRAjaskP2HOGxS0uXeR39Uo80QwyrBSCm1z+/hO0nEy784+ZEGy4Cv9nQ8KBz8\nh9iEmU3EMHt09QB8DM8SfXN/ppi4qVgVS4iZkqhos7oTNCjhp4wwGDsBAoGAOgeb\nLoGsQ7Jmim+kq+SsUPZhJRNDnBkJNXVtPrfjtF7nWqO1aG1HG2f9fZ/aFBRrTLxu\nXDwsNAfEQ3VMpRYsWSWpSphOpDmU4xAp21TTgbX2g+chpkDSTlVtvwSQn6eJi8cc\nBzl9P6eYdbbd6t3tyk8J16Gm+iNr4MEhh36vvOUCgYEAh8PYr7VHuDFy1tssHAQP\nT/i1AT2w46Jl9fV+o65kld5NBvsGzCiIiewt9hpL2ZFG0fGoOl+YJyjRWvKIsoVk\nCdAkK8XGY7U910JOJ9Eu781x0EhmSB5izA+TNVztQjnNbjpmmjTjYSOsfdy+muqt\nMHaTAbvTtrkGSj1KpgVRemc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartface@facial-detection-app-272201.iam.gserviceaccount.com",
+  "client_id": "113860435787085089524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartface%40facial-detection-app-272201.iam.gserviceaccount.com"
+}
