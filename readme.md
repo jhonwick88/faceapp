@@ -16,7 +16,8 @@ In this code, you'll use the Google Vision API to detect faces in an image and w
 - Set up your environment for using Application Default Credentials. 
 
 ## Add webcam.js
-
+This code combine google vision api with webcam.js
+- See more about webcam.js [here](https://github.com/jhuckaby/webcamjs)
 
 ## Contributing
 
